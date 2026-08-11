@@ -1,174 +1,123 @@
-# Hi, I'm Christian Henríquez 👋
+# Christian Henríquez
 
 ### Systems Engineer | Support Engineering | Network Automation | Cybersecurity
 
-Technology professional with experience in software support, IT infrastructure,
-networking, troubleshooting, CRM integrations and business process automation.
-
-I enjoy solving complex technical problems, analyzing systems and building
-practical solutions that improve reliability, scalability and operational efficiency.
+📍 San José, Costa Rica  
+💼 Technology • Infrastructure • Automation • Security
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Engineering Profile
 
-- 🌎 Based in Costa Rica
-- 💻 Systems Engineer with experience in technical support and IT infrastructure
-- 🐧 Strong interest in Linux administration and troubleshooting
-- 🌐 Networking, TCP/IP, DNS, DHCP, VPN and network diagnostics
-- 🛡️ Cybersecurity, SIEM/XDR and security monitoring
-- ☁️ Cloud infrastructure and Microsoft technologies
-- ⚙️ Automation, APIs and systems integration
-- 🤖 Exploring AI-driven automation and intelligent business solutions
-- 📚 Continuously developing skills in Network Automation, Cybersecurity and DevOps
+Systems Engineer focused on technical support, infrastructure, networking,
+troubleshooting and automation.
+
+I enjoy investigating complex technical issues, identifying root causes and
+building reliable solutions that improve operational efficiency and scalability.
+
+My current technical development is focused on **Network Automation,
+Cybersecurity, Linux, Cloud Infrastructure and DevOps practices**.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Core Expertise
 
-### Operating Systems & Infrastructure
+| Infrastructure | Networking | Security | Automation |
+|---|---|---|---|
+| Linux | TCP/IP | SIEM / XDR | Python |
+| Windows Server | DNS / DHCP | Wazuh | Bash |
+| Azure | VPN / Routing | Log Analysis | REST APIs |
+| Microsoft 365 | pfSense | Network Monitoring | Git / GitHub |
+
+---
+
+## 🧰 Technical Stack
+
+**Operating Systems**
 
 `Linux` `Ubuntu` `Debian` `Windows Server` `macOS`
 
-### Networking
+**Networking**
 
-`TCP/IP` `DNS` `DHCP` `VPN` `Routing` `Wi-Fi` `pfSense`
+`TCP/IP` `DNS` `DHCP` `Routing` `VPN` `pfSense`
 
-### Network & Security Tools
+**Security & Diagnostics**
 
-`Nmap` `Wireshark` `tcpdump` `netstat` `lsof` `traceroute`
+`Wazuh` `SIEM` `XDR` `Nmap` `Wireshark` `tcpdump`
 
-### Cybersecurity
+**Cloud & Enterprise**
 
-`SIEM` `XDR` `Wazuh` `Security Monitoring` `Log Analysis`
-`Incident Investigation`
+`Azure` `Microsoft 365` `Active Directory`
 
-### Cloud & Enterprise
+**Automation & Development**
 
-`Microsoft Azure` `Microsoft 365` `Active Directory`
-
-### Automation & Development
-
-`Python` `Bash` `Git` `GitHub` `REST APIs`
-`JSON` `Automation`
-
-### Infrastructure & Deployment
-
-`Docker` `GitHub Actions` `Web Hosting` `DNS` `SSL/TLS`
-
-### Business Technology
-
-`HubSpot CRM` `Process Automation` `API Integrations`
-`AI Automation`
+`Python` `Bash` `REST APIs` `Git` `GitHub` `Docker`
 
 ---
 
-## 🚀 Current Focus
-
-I'm currently strengthening my expertise in:
-
-- Network Automation
-- Cybersecurity Engineering
-- Linux troubleshooting
-- SIEM / XDR technologies
-- Cloud infrastructure
-- Python automation
-- APIs and system integrations
-- DevOps and CI/CD workflows
-- AI-powered automation
-
----
-
-## 🔬 Technical Labs & Projects
-
-I'm building practical projects focused on real-world infrastructure,
-networking and cybersecurity scenarios.
+## 🚀 Featured Engineering Projects
 
 ### 🌐 Network Diagnostics Toolkit
+Practical network troubleshooting procedures, command references and
+diagnostic workflows for connectivity, DNS, routing and network services.
 
-A collection of networking commands, scripts and troubleshooting procedures
-for analyzing connectivity, routing, DNS and network services.
+**Stack:** `Nmap` `tcpdump` `DNS` `ARP` `Traceroute` `Bash`
 
-Technologies:
-
-`Nmap` `tcpdump` `netstat` `ARP` `DNS` `Traceroute` `Bash`
+[View project →](https://github.com/henriqch/network-diagnostics-toolkit)
 
 ---
 
-### ⚙️ Python Network Automation
+### ⚙️ Network Automation Lab
+Python-based infrastructure and network automation experiments.
 
-Automation experiments for network administration and infrastructure tasks.
+**Focus:** SSH automation • APIs • inventory • diagnostics • reporting
 
-Topics include:
-
-- SSH automation
-- REST APIs
-- Network inventory
-- Configuration parsing
-- Automated diagnostics
-- Reporting
+[View project →](https://github.com/henriqch/python-network-automation)
 
 ---
 
 ### 🛡️ Cybersecurity Home Lab
+Hands-on security laboratory focused on SIEM, monitoring and incident analysis.
 
-Hands-on security laboratory focused on:
+**Focus:** Wazuh • Linux Security • Log Analysis • Threat Detection
 
-- SIEM
-- Wazuh
-- Log analysis
-- Threat detection
-- Linux security
-- Network monitoring
-- Incident investigation
+[View project →](https://github.com/henriqch/cybersecurity-home-lab)
 
 ---
 
-### 🐳 Infrastructure & DevOps Lab
+## 🔬 Currently Building
 
-Experiments involving:
-
-`Docker` `Linux` `GitHub` `CI/CD` `Cloud` `Automation`
-
----
-
-## 💼 Professional Interests
-
-I am particularly interested in opportunities involving:
-
-- Support Engineering
-- Technical Account Management
-- Network Engineering
 - Network Automation
-- Cybersecurity Engineering
-- Cloud Support
-- Infrastructure Engineering
-- DevOps / Platform Support
+- Linux Troubleshooting Labs
+- Cybersecurity / SIEM Engineering
+- Cloud Infrastructure
+- Python Automation
+- CI/CD and deployment workflows
+- AI-assisted automation
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🎯 Professional Focus
 
-> Understand the system.  
-> Identify the root cause.  
-> Automate what can be automated.  
-> Document what matters.  
-> Build solutions that scale.
+Interested in engineering roles involving:
 
----
-
-## 📫 Connect With Me
-
-🌎 Costa Rica
-
-💼 LinkedIn: Add your LinkedIn URL here
-
-🌐 Website: Add your professional website here
-
-📧 Email: Add your professional email here
+**Support Engineering** • **Network Automation** • **Cybersecurity** •
+**Cloud Infrastructure** • **Technical Account Management**
 
 ---
 
-### Thanks for visiting my GitHub profile.
+## 💡 Engineering Principles
 
-Always learning. Always building.
+> **Understand the system → isolate the problem → identify the root cause → automate the solution → document the knowledge.**
+
+---
+
+## 🤝 Connect
+
+**LinkedIn:** [Christian Henríquez](TU-LINKEDIN-CORRECTO)
+
+**Location:** Costa Rica 🇨🇷
+
+---
+
+<sub>Always learning. Always building.</sub>
