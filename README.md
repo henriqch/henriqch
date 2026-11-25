@@ -114,7 +114,7 @@ Interested in engineering roles involving:
 
 ## 🤝 Connect
 
-**LinkedIn:** [Christian Henríquez](https://github.com/henriqch/henriqch)
+**LinkedIn:** [Chrishttps://henriqch →](https://github.com/henriqch/network-diagnostics-toolkit)
 
 **Location:** Costa Rica 🇨🇷
 
