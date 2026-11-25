@@ -114,7 +114,7 @@ Interested in engineering roles involving:
 
 ## 🤝 Connect
 
-**LinkedIn:** [Christian Henríquez](TU-LINKEDIN-CORRECTO)
+**LinkedIn:** [Christian Henríquez](https://github.com/henriqch/henriqch)
 
 **Location:** Costa Rica 🇨🇷
 
